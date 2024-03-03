@@ -1,3 +1,3 @@
 document.getElementById('clickMeBtn').addEventListener('click', function() {
-    document.getElementById('dynamicText').textContent = 'You've been good. You deserve some milkies!';
+    document.getElementById('dynamicText').textContent = 'Very good. You deserve some milkies!';
 });
